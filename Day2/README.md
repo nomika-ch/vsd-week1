@@ -178,7 +178,7 @@ endmodule
    show
    ```
 
-   <img width="1194" height="654" alt="synth_dff_asyrst" src="https://github.com/user-attachments/assets/4d10a25c-80f8-4e41-9510-fe66cb4459a5" />
+
 <img width="1298" height="654" alt="synth_dff_asyres" src="https://github.com/user-attachments/assets/f06b549d-dd5d-42d7-a40a-37a8b7a3a863" />
 
 
